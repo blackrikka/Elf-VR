@@ -1,0 +1,13 @@
+# 3D 프린트 출력 파일
+*.stl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 빌드 산출물
+build/
+dist/
+out/
